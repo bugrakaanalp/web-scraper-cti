@@ -185,7 +185,6 @@ Desktop/
     ├── go.mod                  # Go modül tanımı
     ├── go.sum                  # Bağımlılık checksums
     ├── README.md               # Bu dosya
-    ├── RAPOR.md               # Detaylı test raporu
     ├── output/                # Çıktı dosyaları
     │   ├── *.html            # HTML dosyaları
     │   ├── *.png             # Screenshot'lar
