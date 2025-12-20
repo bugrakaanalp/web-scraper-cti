@@ -1,0 +1,62 @@
+# Output klasörü - test sonuçları
+output/
+
+# Binary dosyalar
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build cache
+*.o
+*.a
+
+# Go coverage
+*.out
+coverage.html
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - GoLand / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE - Sublime
+*.sublime-project
+*.sublime-workspace
+
+# OS dosyaları
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.swp
+*.swo
+*~
+.tmp
+
+# Go vendor
+vendor/
+
+# Environment variables
+.env
+.env.local
+
+# Log dosyaları
+*.log
+
+# Backup dosyaları
+*.bak
+*.backup
