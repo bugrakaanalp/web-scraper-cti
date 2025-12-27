@@ -219,7 +219,7 @@ MIT License - Detaylar için `LICENSE` dosyasına bakın.
 ## 👨‍💻 Geliştirici
 
 **Buğra Kaan ALP**
-- GitHub: [@cybsecbugra](https://github.com/cybsecbugra)
+- GitHub: [@cybsecbugra](https://github.com/bugrakaanalp)
 - Email: bugrakaanalp19@gmail.com
 
 ## 🙏 Teşekkürler
@@ -230,7 +230,7 @@ MIT License - Detaylar için `LICENSE` dosyasına bakın.
 ## 📞 İletişim ve Destek
 
 Sorularınız için:
-- Issue açın: [GitHub Issues](https://github.com/kullaniciadi/web-scraper-cti/issues)
+- Issue açın: [GitHub Issues](https://github.com/bugrakaanalp/web-scraper-cti/issues)
 - Pull request gönderin
 
 ---
